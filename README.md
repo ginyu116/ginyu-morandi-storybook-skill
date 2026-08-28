@@ -1,55 +1,52 @@
-# 🌰 Ginyu Morandi Storybook Skill
+# 🎨 Ginyu Morandi Storybook Skill
 
-一个用于生成治愈系手绘插画的 AI 视觉风格 Skill。
+一个用于生成治愈系手绘插画的 AI Image Skill。
 
-## ✨ 风格特点
+## Style Identity
+
+核心视觉：
 
 - 手绘水彩质感
 - 蜡笔颗粒纹理
 - 莫兰迪低饱和配色
-- 儿童绘本插画感
-- 温暖留白构图
-- 柔和治愈氛围
+- 柔和儿童绘本风格
+- 大面积留白
+- 轻盈治愈氛围
 
 
-## 🎨 视觉规则
+## Rules
 
-核心关键词：
+生成任何主题时：
 
-> soft watercolor  
-> handmade paper texture  
-> Morandi colors  
-> children's picture book style
+保持：
 
-
-## 🐶 适用主题
-
-可以生成：
-
-- 动物角色
-- OC角色
-- 食物拟人
-- 日常小物
-- 表情贴纸
+✅ 色彩体系  
+✅ 插画质感  
+✅ 构图规律  
+✅ 留白比例  
+✅ 手绘字体感觉  
 
 
-## 使用方式
-
-输入任意主题，例如：
-
-"一只戴花环的小猫"
-
-Skill 会自动转换为：
-
-温暖、柔和、手绘水彩绘本风。
+不复制原始角色，
+只继承视觉语言。
 
 
-## Design Philosophy
+## Usage
 
-Soft.
-Warm.
-Simple.
-Emotional.
+输入：
+
+"生成一只戴花环的小猫"
 
 
-© 2026 Ginyu
+输出：
+
+自动保持：
+
+- Morandi palette
+- watercolor texture
+- storybook composition
+
+
+## License
+
+MIT License
